@@ -2,4 +2,4 @@
 
 Im a student of applied physics and mathematics at NTNU Gløshaugen, Trondheim.
 
-Here I uppload my course work and interesting projects that I worked on.
+Here I upload my course work and interesting projects that I worked on.
