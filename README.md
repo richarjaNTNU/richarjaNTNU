@@ -18,13 +18,8 @@ I solve problems using math, physics, and code. This repository houses my course
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richarjaNTNU&show_icons=true&theme=nord&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richarjaNTNU&layout=compact&theme=nord&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
+### 🏆 Achievements
+[![Trophies](https://github-profile-trophy.vercel.app/?username=richarjaNTNU&theme=nord&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🔭 Current Focus
